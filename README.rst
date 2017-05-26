@@ -23,4 +23,4 @@ Enter the correct number formats:
 
 Program output:
 
-.. image:: convert.jpg
+.. image:: convert.png
