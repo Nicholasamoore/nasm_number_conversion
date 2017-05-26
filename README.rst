@@ -20,3 +20,7 @@ Enter the correct number formats:
 
 * Decimal to unsigned integer: 'xx.xx+'
 * Binary to unsigned integer: '0b_xxxx'
+
+Program output:
+
+.. image:: convert.jpg
